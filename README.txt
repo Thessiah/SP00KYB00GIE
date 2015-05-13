@@ -1,4 +1,4 @@
-"Spooky Boogy" 
+"Spooky Boogie" 
 
 UCLA CS188VR 
 
